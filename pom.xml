@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>Codezilla</groupId>
-    <artifactId>HendyNest</artifactId>
+    <artifactId>ClassWork</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>HendyNest</name>
     <description>HendyNest</description>
@@ -36,6 +36,12 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>commons-codec</groupId>
+            <artifactId>commons-codec</artifactId>
+            <version>1.16.1</version>
+        </dependency>
+
     </dependencies>
 
     <build>

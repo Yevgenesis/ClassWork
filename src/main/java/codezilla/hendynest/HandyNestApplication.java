@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HendyNestApplication {
+public class HandyNestApplication {
     public static void main(String[] args) {
-        SpringApplication.run(HendyNestApplication.class, args);
+        SpringApplication.run(HandyNestApplication.class, args);
     }
 
 }
