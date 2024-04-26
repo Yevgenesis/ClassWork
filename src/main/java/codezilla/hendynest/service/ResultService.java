@@ -48,9 +48,6 @@ public class ResultService {
         result.add(new ResultDto(hash));
 
 
-        // Здесь нужна провер
-
-
         // Возвращение объекта ResponseDto с успешным статусом и результатом
         return new ResponseDto("success", result);
     }
